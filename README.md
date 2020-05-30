@@ -22,7 +22,7 @@ Requirements:
 
 ## Advanced
 
-Think about the efficiency of your algorithm. How many iterations does it do? Look into Benchmarking in Ruby and profile a few different approaches to implementing `prime?()`.
+Think about the efficiency of your algorithm. How many iterations does it do? Look into exi and profile a few different approaches to implementing `prime?()`.
 
 ## Resources
 * [Basic Benchmarking in Ruby](http://rubylearning.com/blog/2013/06/19/how-do-i-benchmark-ruby-code/)
