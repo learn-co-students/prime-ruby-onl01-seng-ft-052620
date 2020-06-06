@@ -10,7 +10,7 @@ def sieve(max)
 
   counter = 0
   primes.each do |p|
-    # Skip if nil
+    
     next unless p
 
     break if p*p > max
